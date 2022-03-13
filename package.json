@@ -1,0 +1,29 @@
+{
+  "name": "eulerts",
+  "version": "1.0.0",
+  "description": "A collection of TypeScript solutions to project Euler challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaartenFaddegon/eulerts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaartenFaddegon/eulerts/issues"
+  },
+  "homepage": "https://github.com/MaartenFaddegon/eulerts#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.14.0",
+    "@typescript-eslint/parser": "^5.14.0",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0",
+    "typescript": "^4.6.2"
+  }
+}
